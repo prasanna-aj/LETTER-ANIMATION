@@ -1,6 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
-
-/* Global */
 html{
   min-height: 100%;
   overflow: hidden;
@@ -24,8 +22,6 @@ body{
     overflow: hidden;
     transform: translateY(-50%);    
 }
-
-/* Animation */
 .anim-typewriter{
   animation: typewriter 4s steps(44) 1s 1 normal both,
              blinkTextCursor 500ms steps(44) infinite normal;
